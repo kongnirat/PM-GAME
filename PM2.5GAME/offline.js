@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1712567499,
+	"version": 1712569732,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,9 @@
 		"images/sprite34-sheet0.png",
 		"images/tiledbackground3.png",
 		"images/sprite35-sheet0.png",
+		"images/sprite36-sheet0.png",
+		"images/sprite37-sheet0.png",
+		"images/sprite38-sheet0.png",
 		"name.png",
 		"penumbra.png"
 	]
